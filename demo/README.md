@@ -1,3 +1,5 @@
+This is a demo app which is made for a job interview
+
 # Demo Uygulama
 Hazirlayan: Ugur Yesiloglu
 Email: uguryesiloglu@gmail.com
